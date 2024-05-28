@@ -15,3 +15,5 @@
 #### 讲义
 
 [几何光学](https://wwk.lanzouo.com/iCtof1zt3gvg)
+
+[刚体、角动量](https://wwk.lanzouo.com/i6AVO2019ssj)
