@@ -16,6 +16,8 @@
 
 [几何光学](https://wwk.lanzouo.com/iCtof1zt3gvg)
 
+[波动光学](https://wwk.lanzouo.com/io2Xu21ytbfi)
+
 [刚体、角动量](https://wwk.lanzouo.com/i6AVO2019ssj)
 
 #### 习题集
